@@ -24,18 +24,18 @@ If you are getting started to learn networkX library, this document should be us
 [NetworkX Tutorial](https://www.cl.cam.ac.uk/teaching/1314/L109/tutorial.pdf) - Petko Georgiev (University of Cambridge)
 
 
-[Official NetworkX Tutorial](https://networkx.github.io/documentation/latest/_downloads/networkx_reference.pdf)
+[Official NetworkX Documentation](https://networkx.github.io/documentation/latest/_downloads/networkx_reference.pdf)
+
+[Official NetworkX Tutorial](https://networkx.github.io/documentation/stable/tutorial.html)
+
+[Bridges in a Graph](https://www.geeksforgeeks.org/bridge-in-a-graph/)
+
+[Nodes With Prime Degree in an Undirected Graph](https://www.geeksforgeeks.org/nodes-with-prime-degree-in-an-undirected-graph/?ref=rp) - Geeks For Geeks
+
+[Degree Centrality](https://en.wikipedia.org/wiki/Centrality#Degree_centrality) - Wikipedia
+
+[Degree in Graph Theory](https://en.wikipedia.org/wiki/Degree_(graph_theory)) - Wikipedia
 
 
 
 
-
-https://networkx.github.io/documentation/stable/tutorial.html
-
-https://www.geeksforgeeks.org/bridge-in-a-graph/
-
-https://www.geeksforgeeks.org/nodes-with-prime-degree-in-an-undirected-graph/?ref=rp
-
-https://en.wikipedia.org/wiki/Centrality#Degree_centrality
-
-https://en.wikipedia.org/wiki/Degree_(graph_theory)
