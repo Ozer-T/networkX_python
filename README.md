@@ -1,6 +1,5 @@
 # networkX_python
-Some of the code in the document can be found on the official documentation.()
-I gave reference in the jupyter file. 
+Some of the code in this document can be found on the web and in the official documentation. 
 If you are getting started to learn networkX library, this document should be usefull. I also recommend you to check out the original sources for further information.
 
 * Python 3.6 and networkx 2.4 is used in this repository.
