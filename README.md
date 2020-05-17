@@ -1,2 +1,41 @@
 # networkX_python
-This repository is a fundamental use of the networkX library. (Some codes are acquired from the documentation and the web.)
+Some of the code in the document can be found on the official documentation.()
+I gave reference in the jupyter file. 
+If you are getting started to learn networkX library, this document should be usefull. I also recommend you to check out the original sources for further information.
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+
+
+## References
+
+[Social Network Analysis](https://blog.dominodatalab.com/social-network-analysis-with-networkx/) - Domino Data Lab
+
+[Node Coloring](https://stackoverflow.com/questions/27030473/how-to-set-colors-for-nodes-in-networkx) - Stack Overflow
+
+[Graph Coloring](https://stackoverflow.com/questions/25639169/networkx-change-color-width-according-to-edge-attributes-inconsistent-result) - Stack Overflow
+
+[Network Centrality Measures in a Graph](https://www.geeksforgeeks.org/network-centrality-measures-in-a-graph-using-networkx-python/?ref=rp) - Geeks For Geeks
+
+[Directed Graphs, Multigraphs and Visualization](https://www.geeksforgeeks.org/directed-graphs-multigraphs-and-visualization-in-networkx/) - Geeks For Geeks
+
+[Eigenvector Centrality](https://en.wikipedia.org/wiki/Eigenvector_centrality) - Wikipedia
+
+
+[NetworkX Tutorial](https://www.cl.cam.ac.uk/teaching/1314/L109/tutorial.pdf) - Petko Georgiev (University of Cambridge)
+
+
+[Official NetworkX Tutorial](https://networkx.github.io/documentation/latest/_downloads/networkx_reference.pdf)
+
+
+
+
+
+https://networkx.github.io/documentation/stable/tutorial.html
+
+https://www.geeksforgeeks.org/bridge-in-a-graph/
+
+https://www.geeksforgeeks.org/nodes-with-prime-degree-in-an-undirected-graph/?ref=rp
+
+https://en.wikipedia.org/wiki/Centrality#Degree_centrality
+
+https://en.wikipedia.org/wiki/Degree_(graph_theory)
