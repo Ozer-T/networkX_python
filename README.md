@@ -1,4 +1,4 @@
-# networkX_python [![HitCount](http://hits.dwyl.com/Ozer-T/networkX_python.svg)](http://hits.dwyl.com/Ozer-T/networkX_python)
+# networkX_python [![HitCount](http://hits.dwyl.com/ozert/networkX_python.svg)](http://hits.dwyl.com/ozert/networkX_python)
 Some of the code in this document can be found on the web and in the official documentation. 
 If you are getting started to learn networkX library, this document should be usefull. I also recommend you to check out the original sources for further information.
 
